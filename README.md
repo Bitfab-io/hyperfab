@@ -1,6 +1,6 @@
 # Hyperfab
 
-Hyperfab is an adaptation of the awesome HyperCube 3D printer by Tech2C (http://www.thingiverse.com/thing:1752766) for the Bitfab 3D printing service (http://bitfab.io). It is modified to achieve a worhorse and versatile 3D printer for continuous production.
+Hyperfab is an adaptation of the awesome HyperCube 3D printer by Tech2C (http://www.thingiverse.com/thing:1752766) for the Bitfab 3D printing service (http://bitfab.io). It is modified to get a workhorse and versatile 3D printer for continuous production.
 
 ![Hyperfab 3D printer, february 2017](https://github.com/diegotrap/hyperfab/raw/master/media/hyperfab_february_2017.jpg)
 
